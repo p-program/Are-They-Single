@@ -1,9 +1,9 @@
 ---
 name: Bug report
 about: What is wrong with me
-title: ''
-labels: ''
-assignees: ''
+title: I'm an idiot
+labels: bug
+assignees: zeusro
 
 ---
 
