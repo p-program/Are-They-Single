@@ -4,9 +4,15 @@
 
 # TA有对象吗
 
+## 观测数据
+
 观测时间 | 观测对象 | 观测结论 | 结论置信度（概率）|备注
 ---|---|---|---|---
 2020-04-20 | https://github.com/liangliangyy | [没有](https://github.com/p-program/Does-He-Have-A-Girlfriend/blob/master/github.com/liangliangyy/README.MD)| 80%|
 2025-06-19|杨轩|有对象|80%|
 2025-06-19|杨振涛|有对象|100%|已婚|
 |||
+
+## 游戏规则
+
+你可以通过发起 pull request 的方式申请除名。
