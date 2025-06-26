@@ -15,4 +15,4 @@
 
 ## 游戏规则
 
-你可以通过发起 pull request 的方式申请永久除名
+你可以通过创建issue，然后发起 pull request 的方式申请永久除名
