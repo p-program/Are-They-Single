@@ -1,18 +1,24 @@
-  满地落花人独立，微雨燕双飞
+# Are they single?
+
+**Google Gemini translate**:
+
+  Amid fallen blossoms
+
+  I stand alone
+
+  I fuck two birds in the rain
 
 <img src="我的朋友很少.webp" width="30%">
 
-# TA有对象吗
+## Data
 
-## 观测数据
-
-观测时间 | 观测对象 | 观测结论 | 结论置信度（概率）|备注
+time | object | conclusion | odds |remark
 ---|---|---|---|---
-2020-04-20 | https://github.com/liangliangyy | [没有](https://github.com/p-program/Does-He-Have-A-Girlfriend/blob/master/github.com/liangliangyy/README.MD)| 80%|
-2025-06-19|杨轩|有对象|80%|
-2025-06-19|杨振涛|有对象|100%|已婚|
-|||
+2020-04-20 | https://github.com/liangliangyy | [Yes](https://github.com/p-program/Does-He-Have-A-Girlfriend/blob/master/github.com/liangliangyy/README.MD)| 80%|
+2025-06-19|杨轩|No|80%|
+2025-06-19|杨振涛|No|100%|married|
+2025-06-29|<img src="1/banana.jpg" style="width:30%;" alt="banana">||80%|gay?|
 
-## 游戏规则
+## Rule
 
-你可以通过创建issue，然后发起 pull request 的方式申请永久除名
+You can request permanent removal by creating an issue and then submitting a pull request.
