@@ -6,7 +6,7 @@
 
 ## 观测数据
 
-时间 | 对象 | 结论 | 致信度 |备注
+时间 | 对象 | 结论 | 置信度 |备注
 ---|---|---|---|---
 2020-04-20 | [liangliangyy](https://github.com/liangliangyy) | [没有](https://github.com/p-program/Does-He-Have-A-Girlfriend/blob/master/github.com/liangliangyy/README.MD)| 80%|
 2025-06-19|杨轩|有对象|80%|
