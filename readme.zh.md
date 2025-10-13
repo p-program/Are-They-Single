@@ -11,8 +11,9 @@
 2020-04-20 | [liangliangyy](https://github.com/liangliangyy) | [没有](https://github.com/p-program/Does-He-Have-A-Girlfriend/blob/master/github.com/liangliangyy/README.MD)| 80%|
 2025-06-19|杨轩|有对象|80%|
 2025-06-19|杨振涛|有对象|100%|已婚|
-2025-06-29|<img src="1/banana.jpg" style="width:30%;" alt="banana">|gay?|80%||
+2025-06-29|[banana]()|gay?|80%||
 2025-07-20|[徐伟](https://www.zhihu.com/people/xu-yang-86-90)|没对象|100%|
+2025-10-13|![GitHub Avatar](https://avatars.githubusercontent.com/u/2173670?v=4|)|yes|
 
 ## 规则
 
