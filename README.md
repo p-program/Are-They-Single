@@ -18,8 +18,8 @@ time | object | conclusion | odds |remark
 2025-06-19|杨轩|No|80%|
 2025-06-19|杨振涛|No|100%|married|
 2025-06-29|<img src="1/banana.jpg" style="width:30%;" alt="banana">||80%|gay?|
+2025-09-15|Clive chen|Yes|80%|married|
 2025-10-13|![GitHub Avatar](https://avatars.githubusercontent.com/u/2173670?v=4|)|yes|
-
 
 ## Rule
 
